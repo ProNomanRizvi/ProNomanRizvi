@@ -4,7 +4,7 @@
 
 ### 🐍 Python Programmer • 📊 Data Science Enthusiast • 🤖 ML Learner
 
-<a href="https://git.io/typing-svg">
+<a href="https://git.io/typing-svg" target="_blank">
   <img src="https://readme-typing-svg.herokuapp.com?font=Roboto&weight=500&size=24&pause=1000&color=2196F3&center=true&vCenter=true&width=600&lines=Python+Developer;Data+Science+Learner;Machine+Learning+Enthusiast;Building+Intelligent+Systems" alt="Typing SVG" />
 </a>
 
@@ -72,15 +72,18 @@ Currently, I am focused on advancing my skills in **Artificial Intelligence, Dat
 
 ## 🌐 Let's Connect
 
-<a href="https://www.linkedin.com/in/pronomanrizvi">
+<a href="https://www.linkedin.com/in/pronomanrizvi" target="_blank">
   <img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
-<a href="https://github.com/ProNomanRizvi">
+
+<a href="https://github.com/ProNomanRizvi" target="_blank">
   <img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white" />
 </a>
-<a href="https://web.facebook.com/profile.php?id=61583556353915">
+
+<a href="https://web.facebook.com/profile.php?id=61583556353915" target="_blank">
   <img src="https://img.shields.io/badge/Facebook-Add-1877F2?style=for-the-badge&logo=facebook&logoColor=white" />
 </a>
+
 <a href="mailto:pro.noman.rizvi@gmail.com">
   <img src="https://img.shields.io/badge/Email-Me-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
