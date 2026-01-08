@@ -54,14 +54,19 @@ Currently improving my skills in **AI, Data Science, Machine Learning**, and bac
 |:----:|:-------|:------------|
 | **2023 – 2027 (Expected)** | B.S. Software Engineering | University of Agriculture, Faisalabad |
 ---
+## 💼 Experience
+- **Python Intern** – *Kivro Solutions*
+  - 🗓️ **05-Nov-2025 to 05-Dec-2025**
+  - *Worked on backend development and Python scripting tasks during the internship.*
+- **AI & Data Science Trainee** – *Saylani Mass IT Training*
+  - *Currently undergoing training in Artificial Intelligence and Data Science methodologies.*
 
-## 💼 Experience  
-- **Python Intern – Kivro Solutions** - 🏆 **Awarded Top Performer** (Batch #01)
-    - 🗓️ **05-Nov-2025 to 05-Dec-2025**
-    - 📜 Certificate ID: `KS-01-25078`
-    - *Successfully completed the Python Programming Internship Program.*
-- **AI & Data Science Trainee – Saylani Mass IT Training**
+---
 
+## 📜 Certifications & Achievements
+- **Top Performer Award (Batch #01)** – *Kivro Solutions*
+  - 🏆 Awarded for exceptional performance during the internship.
+  - 📜 **Certificate ID:** `KS-01-25078`
 ---
 
 ## 🌐 Connect With Me  
