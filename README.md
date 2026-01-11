@@ -2,15 +2,13 @@
 
 ![Header](https://capsule-render.vercel.app/api?type=waving&color=0099ff&height=220&section=header&text=Noman%20Rizvi&fontSize=80&animation=fadeIn&fontAlignY=35&desc=Python%20Developer%20%E2%80%A2%20Data%20Scientist%20%E2%80%A2%20ML%20Engineer&descAlignY=55&descSize=20)
 
-<a href="https://git.io/typing-svg" target="_blank">
+<a href="https://git.io/typing-svg">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=2196F3&center=true&vCenter=true&width=500&lines=Building+Intelligent+Systems;Exploring+Data+Science+Insights;Training+ML+Models;Automating+with+Python" alt="Typing SVG" />
 </a>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=ProNomanRizvi&label=Profile%20Views&color=0e75b6&style=flat" alt="ProNomanRizvi" />
 </p>
-
-<br/>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/pronomanrizvi" target="_blank">
@@ -19,7 +17,7 @@
   <a href="https://github.com/ProNomanRizvi" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
   </a>
-  <a href="mailto:pro.noman.rizvi@gmail.com" target="_blank">
+  <a href="mailto:pro.noman.rizvi@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 </p>
@@ -41,17 +39,17 @@
 ### 📊 GitHub Analytics
 
 <div align="center">
-  <a href="https://github.com/anuraghazra/github-readme-stats" target="_blank">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ProNomanRizvi&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117" />
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img height="180" src="https://github-readme-stats.vercel.app/api?username=ProNomanRizvi&show_icons=true&theme=tokyonight&hide_border=true&bg_color=00000000" />
   </a>
-  <a href="https://github.com/anuraghazra/github-readme-stats" target="_blank">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ProNomanRizvi&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117" />
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ProNomanRizvi&layout=compact&theme=tokyonight&hide_border=true&bg_color=00000000" />
   </a>
 </div>
 <br/>
 <div align="center">
-  <a href="https://github.com/DenverCoder1/github-readme-streak-stats" target="_blank">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=ProNomanRizvi&theme=tokyonight&hide_border=true&background=0d1117" />
+  <a href="https://github.com/DenverCoder1/github-readme-streak-stats">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=ProNomanRizvi&theme=tokyonight&hide_border=true&background=00000000" />
   </a>
 </div>
 
@@ -61,8 +59,8 @@
 
 <div align="center">
   <br/>
-  <a href="https://skillicons.dev" target="_blank">
-    <img src="https://skillicons.dev/icons?i=python,tensorflow,scikitlearn,numpy,pandas,matplotlib,vscode,git,github,html,css,mysql,mongodb&perline=7&theme=dark" />
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=python,tensorflow,scikitlearn,numpy,pandas,matplotlib,vscode,git,github,html,css,mysql,mongodb&perline=13&theme=dark" />
   </a>
 </div>
 
