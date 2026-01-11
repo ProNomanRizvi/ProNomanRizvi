@@ -39,18 +39,13 @@
 ### 📊 GitHub Analytics
 
 <div align="center">
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img height="180" src="https://github-readme-stats.vercel.app/api?username=ProNomanRizvi&show_icons=true&theme=tokyonight&hide_border=true&bg_color=00000000" />
-  </a>
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ProNomanRizvi&layout=compact&theme=tokyonight&hide_border=true&bg_color=00000000" />
-  </a>
-</div>
-<br/>
-<div align="center">
-  <a href="https://github.com/DenverCoder1/github-readme-streak-stats">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=ProNomanRizvi&theme=tokyonight&hide_border=true&background=00000000" />
-  </a>
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ProNomanRizvi&show_icons=true&theme=tokyonight&hide_border=true&bg_color=transparent)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ProNomanRizvi&layout=compact&theme=tokyonight&hide_border=true&bg_color=transparent)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=ProNomanRizvi&theme=tokyonight&hide_border=true&background=transparent)](https://github.com/ProNomanRizvi)
+
 </div>
 
 ---
