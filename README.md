@@ -1,95 +1,99 @@
 <div align="center">
 
-# 👋 Hi, I'm Noman Rizvi
-
-### 🐍 Python Programmer • 📊 Data Science Enthusiast • 🤖 ML Learner
+![Header](https://capsule-render.vercel.app/api?type=waving&color=0099ff&height=220&section=header&text=Noman%20Rizvi&fontSize=80&animation=fadeIn&fontAlignY=35&desc=Python%20Developer%20%E2%80%A2%20Data%20Scientist%20%E2%80%A2%20ML%20Engineer&descAlignY=55&descSize=20)
 
 <a href="https://git.io/typing-svg" target="_blank">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Roboto&weight=500&size=24&pause=1000&color=2196F3&center=true&vCenter=true&width=600&lines=Python+Developer;Data+Science+Learner;Machine+Learning+Enthusiast;Building+Intelligent+Systems" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=2196F3&center=true&vCenter=true&width=500&lines=Building+Intelligent+Systems;Exploring+Data+Science+Insights;Training+ML+Models;Automating+with+Python" alt="Typing SVG" />
 </a>
 
-<p>
-  <img src="https://img.shields.io/badge/Python-Expert-3776AB?style=flat&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/Data%20Science-Learning-FF6F00?style=flat&logo=googlecolab&logoColor=white" />
-  <img src="https://img.shields.io/badge/ML-Active%20Learner-43B02A?style=flat&logo=tensorflow&logoColor=white" />
-  <img src="https://img.shields.io/badge/Status-Open%20For%20Opportunities-blue?style=flat" />
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=ProNomanRizvi&label=Profile%20Views&color=0e75b6&style=flat" alt="ProNomanRizvi" />
+</p>
+
+<br/>
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/pronomanrizvi" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://github.com/ProNomanRizvi" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+  <a href="mailto:pro.noman.rizvi@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
 </p>
 
 </div>
 
 ---
 
-## 📌 About Me
-I am a passionate **Python Developer** and a **B.S. Software Engineering student** dedicated to exploring data, building intelligent systems, and developing impactful applications. 
+### 👨‍💻 About Me
 
-Currently, I am focused on advancing my skills in **Artificial Intelligence, Data Science, Machine Learning**, and **Backend Development**.
+> I am a **B.S. Software Engineering student** at UAF and a passionate **Python Developer**. I specialize in turning raw data into actionable insights using Machine Learning. My goal is to bridge the gap between complex algorithms and real-world applications.
 
----
-
-## 🛠️ Technical Arsenal
-
-| Category | Technologies |
-| :--- | :--- |
-| **🚀 Languages** | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) |
-| **🧠 AI & ML** | ![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white) ![Scikit-Learn](https://img.shields.io/badge/Scikit_Learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-003B57?style=flat-square&logo=plotly&logoColor=white) |
-| **🌐 Web Dev** | ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white) |
-| **💾 Databases** | ![SQL](https://img.shields.io/badge/SQL-003B57?style=flat-square&logo=sqlite&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white) |
+* 🔭 I’m currently working on **Computer Vision & CNN Architectures**.
+* 🌱 I’m currently learning **Advanced Deep Learning & MLOps**.
+* ⚡ Fun fact: I love automating boring tasks with Python scripts!
 
 ---
 
-## 💼 Professional Experience
+### 📊 GitHub Analytics
 
-### **Python Intern** | *Kivro Solutions*
-🗓️ **Nov 2025 – Dec 2025**
-* Focused on backend development and Python scripting tasks.
-* Automated workflows and optimized code efficiency during the internship.
-
-### **AI & Data Science Trainee** | *Saylani Mass IT Training*
-🗓️ **Present**
-* Undergoing intensive training in Artificial Intelligence methodologies.
-* Working on practical Data Science projects and Machine Learning algorithms.
-
----
-
-## 🏆 Certifications & Honors
-
-### **🥇 Top Performer Award (Batch #01)**
-**Issued by:** *Kivro Solutions*
-* Awarded for exceptional performance and dedication during the Python Programming Internship.
-* **Certificate ID:** `KS-01-25078`
+<div align="center">
+  <a href="https://github.com/anuraghazra/github-readme-stats" target="_blank">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ProNomanRizvi&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117" />
+  </a>
+  <a href="https://github.com/anuraghazra/github-readme-stats" target="_blank">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ProNomanRizvi&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117" />
+  </a>
+</div>
+<br/>
+<div align="center">
+  <a href="https://github.com/DenverCoder1/github-readme-streak-stats" target="_blank">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=ProNomanRizvi&theme=tokyonight&hide_border=true&background=0d1117" />
+  </a>
+</div>
 
 ---
 
-## 🎓 Education
+### 🛠️ Tech Stack & Tools
 
-| Degree | Institution | Years |
-| :--- | :--- | :---: |
-| **B.S. Software Engineering** | University of Agriculture, Faisalabad | *2023 – 2027* |
+<div align="center">
+  <br/>
+  <a href="https://skillicons.dev" target="_blank">
+    <img src="https://skillicons.dev/icons?i=python,tensorflow,scikitlearn,numpy,pandas,matplotlib,vscode,git,github,html,css,mysql,mongodb&perline=7&theme=dark" />
+  </a>
+</div>
+
+---
+
+### 💼 Professional Experience
+
+#### <img src="https://media.giphy.com/media/WnIu6vAWt5ul3UVIrf/giphy.gif" width="30"> **Python Intern** @ *Kivro Solutions*
+> **Nov 2025 – Dec 2025**
+> * 🚀 **Backend Development:** Engineered robust backend logic using Python.
+> * ⚡ **Automation:** Developed scripts to automate repetitive data entry tasks, increasing team efficiency.
+> * 🏆 **Achievement:** Recognized as **Top Performer** for optimizing legacy code.
+
+#### <img src="https://media.giphy.com/media/LIdwqF948mnS/giphy.gif" width="30"> **AI & Data Science Trainee** @ *Saylani Mass IT Training*
+> **Present**
+> * 🧠 **Model Training:** Hands-on experience with Regression, Classification, and Neural Networks.
+> * 📊 **Data Analysis:** Analyzing large datasets using Pandas and visualizing trends with Matplotlib/Seaborn.
+
+---
+
+### 📜 Certifications
+
+| Award | Organization | ID |
+| :--- | :--- | :--- |
+| **🥇 Top Performer (Batch #01)** | Kivro Solutions | `KS-01-25078` |
+| **🐍 Python Programming** | Kivro Solutions | `Internship` |
 
 ---
 
 <div align="center">
-
-## 🌐 Let's Connect
-
-<a href="https://www.linkedin.com/in/pronomanrizvi" target="_blank">
-  <img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-</a>
-
-<a href="https://github.com/ProNomanRizvi" target="_blank">
-  <img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white" />
-</a>
-
-<a href="https://web.facebook.com/profile.php?id=61583556353915" target="_blank">
-  <img src="https://img.shields.io/badge/Facebook-Add-1877F2?style=for-the-badge&logo=facebook&logoColor=white" />
-</a>
-
-<a href="mailto:pro.noman.rizvi@gmail.com">
-  <img src="https://img.shields.io/badge/Email-Me-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-</a>
-
-<br />
-
-⭐ *If you find my projects useful, consider giving them a star!*
-
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0099ff&height=100&section=footer"/>
+  <br />
+  <p><b><i>Let's build something amazing together!</i></b></p>
 </div>
