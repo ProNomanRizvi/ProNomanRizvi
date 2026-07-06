@@ -66,6 +66,7 @@ I am currently following a structured, ground-up ML engineering roadmap — no s
 | Repo | Description | Tech |
 |------|-------------|------|
 | [python-task-manager](https://github.com/pronomanrizvi/python-task-manager) | CLI task manager — decorators, generators, file I/O | Python |
+| [python-bank-account](https://github.com/ProNomanRizvi/python-bank-account-oop) |  OOP bank account system — inheritance, encapsulation, factory pattern, JSON persistence | Python |
 
 > More repos added each month as I complete phases.
 
