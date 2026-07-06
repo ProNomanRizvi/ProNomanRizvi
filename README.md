@@ -34,8 +34,8 @@ I am currently following a structured, ground-up ML engineering roadmap — no s
 | Phase | Project | Status |
 |-------|---------|--------|
 | Profile | `pronomanrizvi` — this README | ✅ Done |
-| Phase 1 | `python-task-manager` — CLI app with decorators & file I/O | 🔨 In Progress |
-| Phase 2 | `python-bank-account-oop` — OOP + design patterns | ⏳ Upcoming |
+| Phase 1 | `python-task-manager` — CLI app with decorators & file I/O | ✅ Done |
+| Phase 2 | `python-bank-account-oop` — OOP + design patterns | ✅ Done |
 | Phase 3 | `dsa-library` — Data structures from scratch | ⏳ Upcoming |
 | Phase 4 | `sales-data-pipeline` — ETL + SQL + Pandas | ⏳ Upcoming |
 | Phase 5 | `ml-math-foundations` — Gradient descent, EDA | ⏳ Upcoming |
