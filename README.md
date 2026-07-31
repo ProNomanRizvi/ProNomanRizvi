@@ -10,6 +10,9 @@
   <a href="https://kaggle.com/pronomanrizvi">
     <img src="https://img.shields.io/badge/Kaggle-20BEFF?style=flat&logo=kaggle&logoColor=white" />
   </a>
+  <a href="https://huggingface.co/rizviml">
+    <img src="https://img.shields.io/badge/🤗%20Hugging%20Face-rizviml-yellow?style=flat" />
+  </a>
   <img src="https://komarev.com/ghpvc/?username=pronomanrizvi&style=flat&color=orange" />
 </p>
 
@@ -17,36 +20,31 @@
 
 ## 👋 About Me
 
-I am a student from Pakistan building toward a career as a Machine Learning Engineer.
+I'm a Software Engineering student at the University of Agriculture, Faisalabad, building toward a career as a Machine Learning Engineer.
 
-I am currently following a structured, ground-up ML engineering roadmap — no shortcuts, no tutorial hell. Every project I push to GitHub is a deliberate step in that path.
+I'm following a structured, ground-up ML engineering path — no shortcuts, no tutorial hell. The full day-by-day progress lives in [ml-engineer-journey](https://github.com/ProNomanRizvi/ml-engineer-journey); this profile just summarizes where things stand.
 
 - 🎯 **Goal:** ML Engineer — writing production-grade code, not just notebooks
-- 📍 **Location:** Pakistan
-- 🧠 **Currently learning:** Python fundamentals → Data Structures → SQL → Classical ML
+- 🎓 **Studying:** BS Software Engineering @ UAF
+- 💼 **Currently:** ML Intern at NeuroFive Solutions (remote)
 - 📅 **Started:** 2025
-- 💬 **Principle:** Build in public. Commit every day. No excuses.
 
 ---
 
-## 🗺️ My Roadmap (15 Phases — 15 Months)
+## 🗺️ Roadmap Progress
 
-| Phase | Project | Status |
-|-------|---------|--------|
-| Profile | `pronomanrizvi` — this README | ✅ Done |
-| Phase 1 | `python-task-manager` — CLI app with decorators & file I/O | ✅ Done |
-| Phase 2 | `python-bank-account-oop` — OOP + design patterns | ✅ Done |
-| Phase 3 | `dsa-library` — Data structures from scratch | ⏳ Upcoming |
-| Phase 4 | `sales-data-pipeline` — ETL + SQL + Pandas | ⏳ Upcoming |
-| Phase 5 | `ml-math-foundations` — Gradient descent, EDA | ⏳ Upcoming |
-| Phase 6 | `ml-from-scratch` + `house-price-predictor` | ⏳ Upcoming |
-| Phase 7 | `deep-learning-projects` — PyTorch, ResNet, mini-GPT | ⏳ Upcoming |
-| Phase 8 | `sentiment-api` — BERT + FastAPI deployed live | ⏳ Upcoming |
-| Phase 9 | `ml-production-system` — MLflow + Docker + CI/CD | ⏳ Upcoming |
-| Phase 10 | `cloud-ml-deployment` — AWS + Databricks | ⏳ Upcoming |
-| Phase 11 | `recommendation-system` — Full system design | ⏳ Upcoming |
+Full breakdown and daily commits: **[ml-engineer-journey →](https://github.com/ProNomanRizvi/ml-engineer-journey)**
 
-> I update this table every time I complete a phase. Last updated: **July 2025**
+| Phase | Topic | Status |
+|-------|-------|--------|
+| Phase 1 | Python Complete Mastery | ✅ Done |
+| Phase 2 | Object-Oriented Programming | ✅ Done |
+| Phase 3 | Data Structures & Algorithms | ✅ Done |
+| Phase 4 | SQL, NumPy & Pandas | ✅ Done |
+| Phase 5 | Math & Statistics for ML | 🔨 In Progress |
+| Phase 6 | Classical ML + First Project | ⏳ Upcoming |
+| Phase 7 | Deep Learning | ⏳ Upcoming |
+| Phase 8 | NLP + Deployment | ⏳ Upcoming |
 
 ---
 
@@ -61,14 +59,15 @@ I am currently following a structured, ground-up ML engineering roadmap — no s
 
 ---
 
-## 📦 Repositories
+## 📦 Projects
 
 | Repo | Description | Tech |
 |------|-------------|------|
-| [python-task-manager](https://github.com/pronomanrizvi/python-task-manager) | CLI task manager — decorators, generators, file I/O | Python |
-| [python-bank-account](https://github.com/ProNomanRizvi/python-bank-account-oop) |  OOP bank account system — inheritance, encapsulation, factory pattern, JSON persistence | Python |
-
-> More repos added each month as I complete phases.
+| [ml-engineer-journey](https://github.com/ProNomanRizvi/ml-engineer-journey) | Daily-commit roadmap repo — Phases 1-4 complete, includes a LeetCode archive | Python |
+| [python-bank-account-oop](https://github.com/ProNomanRizvi/python-bank-account-oop) | OOP bank account system — inheritance, encapsulation, Factory pattern, JSON persistence, 23-test suite | Python |
+| [python-task-manager](https://github.com/ProNomanRizvi/python-task-manager) | CLI task manager — decorators, generators, JSON Lines storage | Python |
+| [xray-enhancement-pipeline](https://github.com/ProNomanRizvi/xray-enhancement-pipeline) | Four-stage CV pipeline on chest X-rays — CLAHE contrast enhancement, Canny edge detection, bone overlay | Python / Jupyter |
+| [DecodeLabs-Internship](https://github.com/ProNomanRizvi/DecodeLabs-Internship) | AI internship projects — rule-based chatbot, KNN iris classifier | Python |
 
 ---
 
