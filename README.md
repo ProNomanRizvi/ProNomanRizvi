@@ -2,7 +2,6 @@
 <p align="center">
   <strong>Aspiring ML Engineer &nbsp;·&nbsp; Python Developer &nbsp;·&nbsp; Pakistan 🇵🇰</strong>
 </p>
-
 <p align="center">
   <a href="https://linkedin.com/in/pronomanrizvi">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white" />
@@ -10,7 +9,7 @@
   <a href="https://kaggle.com/pronomanrizvi">
     <img src="https://img.shields.io/badge/Kaggle-20BEFF?style=flat&logo=kaggle&logoColor=white" />
   </a>
-  <a href="[https://huggingface.co/ProNomanRizvi](https://huggingface.co/ProNomanRizvi)">
+  <a href="https://huggingface.co/ProNomanRizvi">
     <img src="https://img.shields.io/badge/🤗%20Hugging%20Face-ProNomanRizvi-yellow?style=flat" />
   </a>
   <img src="https://komarev.com/ghpvc/?username=pronomanrizvi&style=flat&color=orange" />
