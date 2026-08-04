@@ -10,7 +10,7 @@
   <a href="https://kaggle.com/pronomanrizvi">
     <img src="https://img.shields.io/badge/Kaggle-20BEFF?style=flat&logo=kaggle&logoColor=white" />
   </a>
-  <a href="https://huggingface.co/rizviml">
+  <a href="https://huggingface.co/ProNomanRizvi">
     <img src="https://img.shields.io/badge/🤗%20Hugging%20Face-rizviml-yellow?style=flat" />
   </a>
   <img src="https://komarev.com/ghpvc/?username=pronomanrizvi&style=flat&color=orange" />
